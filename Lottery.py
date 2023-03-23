@@ -1,3 +1,5 @@
+# BLOOMING DAN A. MONEDA
+
 import smartpy as sp
 
 class Lottery(sp.Contract):
